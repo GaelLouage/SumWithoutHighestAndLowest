@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\bin\Debug\net8.0\SumWithouthHighestAndLowest.exe
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\bin\Debug\net8.0\SumWithouthHighestAndLowest.deps.json
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\bin\Debug\net8.0\SumWithouthHighestAndLowest.runtimeconfig.json
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\bin\Debug\net8.0\SumWithouthHighestAndLowest.dll
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\bin\Debug\net8.0\SumWithouthHighestAndLowest.pdb
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.AssemblyInfo.cs
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.dll
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\refint\SumWithouthHighestAndLowest.dll
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.pdb
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\SumWithouthHighestAndLowest.genruntimeconfig.cache
+C:\Users\louag\source\repos\SumWithouthHighestAndLowest\SumWithouthHighestAndLowest\obj\Debug\net8.0\ref\SumWithouthHighestAndLowest.dll
